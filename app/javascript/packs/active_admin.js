@@ -7,3 +7,5 @@ import "@activeadmin/activeadmin";
 //= require bootstrap-sprockets
 
 //= require active_bootstrap_skin
+import "@fortawesome/fontawesome-free/css/all.css";
+import 'arctic_admin'
