@@ -24,6 +24,8 @@ ActiveAdmin.register Book do
     actions
   end
   filter :name
+  filter :remarks 
+  filter :additional_information
   filter :author
   filter :section
 end
