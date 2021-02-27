@@ -19,6 +19,8 @@ ActiveAdmin.register Book do
     column :name
     column :author
     column :section
+    column :remarks
+    column :additional_information
     actions
   end
   filter :name
