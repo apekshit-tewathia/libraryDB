@@ -1,24 +1,5 @@
-# README
+An App maintaining a list of books that I have at my home. 
+An easily accesible User Interface that makes it easy to search for a book.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![SS1](./images/image1.png)
+![SS2](./images/image2.png)
