@@ -26,6 +26,7 @@ ActiveAdmin.register Book do
   filter :name
   filter :remarks 
   filter :additional_information
-  filter :author
-  filter :section
+  filter :author_name, as: :string
+  filter :author, collection: Author.order(:name)
+  filter :section, collection: Section.order(:name)
 end
